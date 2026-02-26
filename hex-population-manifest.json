@@ -1,0 +1,8 @@
+{
+  "parts": [
+    "hex-population-1.json",
+    "hex-population-2.json",
+    "hex-population-3.json"
+  ],
+  "totalCells": 291941
+}

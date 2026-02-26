@@ -1,0 +1,547 @@
+[
+  {
+    "id": "mrt3-north-ave",
+    "lat": 14.6521,
+    "lng": 121.0326
+  },
+  {
+    "id": "mrt3-quezon-ave",
+    "lat": 14.6424,
+    "lng": 121.0386
+  },
+  {
+    "id": "mrt3-gma-kamuning",
+    "lat": 14.6353,
+    "lng": 121.0433
+  },
+  {
+    "id": "mrt3-araneta-cubao",
+    "lat": 14.6195,
+    "lng": 121.0511
+  },
+  {
+    "id": "mrt3-santolan-annapolis",
+    "lat": 14.6075,
+    "lng": 121.0566
+  },
+  {
+    "id": "mrt3-ortigas",
+    "lat": 14.5873,
+    "lng": 121.0565
+  },
+  {
+    "id": "mrt3-shaw",
+    "lat": 14.5811,
+    "lng": 121.0534
+  },
+  {
+    "id": "mrt3-boni",
+    "lat": 14.5731,
+    "lng": 121.0476
+  },
+  {
+    "id": "mrt3-guadalupe",
+    "lat": 14.5667,
+    "lng": 121.0454
+  },
+  {
+    "id": "mrt3-buendia",
+    "lat": 14.554,
+    "lng": 121.0337
+  },
+  {
+    "id": "mrt3-ayala",
+    "lat": 14.5488,
+    "lng": 121.0275
+  },
+  {
+    "id": "mrt3-magallanes",
+    "lat": 14.5418,
+    "lng": 121.019
+  },
+  {
+    "id": "mrt3-taft-ave",
+    "lat": 14.5376,
+    "lng": 121.0019
+  },
+  {
+    "id": "lrt1-fernando-poe",
+    "lat": 14.6575,
+    "lng": 121.0211
+  },
+  {
+    "id": "lrt1-balintawak",
+    "lat": 14.6574,
+    "lng": 121.004
+  },
+  {
+    "id": "lrt1-monumento",
+    "lat": 14.6539,
+    "lng": 120.9838
+  },
+  {
+    "id": "lrt1-5th-ave",
+    "lat": 14.6444,
+    "lng": 120.9836
+  },
+  {
+    "id": "lrt1-r-papa",
+    "lat": 14.636,
+    "lng": 120.9823
+  },
+  {
+    "id": "lrt1-abad-santos",
+    "lat": 14.6306,
+    "lng": 120.9814
+  },
+  {
+    "id": "lrt1-blumentritt",
+    "lat": 14.6228,
+    "lng": 120.9829
+  },
+  {
+    "id": "lrt1-tayuman",
+    "lat": 14.6167,
+    "lng": 120.9827
+  },
+  {
+    "id": "lrt1-bambang",
+    "lat": 14.6111,
+    "lng": 120.9824
+  },
+  {
+    "id": "lrt1-doroteo-jose",
+    "lat": 14.6053,
+    "lng": 120.982
+  },
+  {
+    "id": "lrt1-carriedo",
+    "lat": 14.599,
+    "lng": 120.9813
+  },
+  {
+    "id": "lrt1-central-terminal",
+    "lat": 14.5928,
+    "lng": 120.9816
+  },
+  {
+    "id": "lrt1-united-nations",
+    "lat": 14.5826,
+    "lng": 120.9846
+  },
+  {
+    "id": "lrt1-pedro-gil",
+    "lat": 14.5766,
+    "lng": 120.988
+  },
+  {
+    "id": "lrt1-quirino",
+    "lat": 14.5702,
+    "lng": 120.9916
+  },
+  {
+    "id": "lrt1-vito-cruz",
+    "lat": 14.5635,
+    "lng": 120.9947
+  },
+  {
+    "id": "lrt1-gil-puyat",
+    "lat": 14.5541,
+    "lng": 120.9972
+  },
+  {
+    "id": "lrt1-libertad",
+    "lat": 14.5477,
+    "lng": 120.9986
+  },
+  {
+    "id": "lrt1-edsa",
+    "lat": 14.539,
+    "lng": 121.0019
+  },
+  {
+    "id": "lrt1-baclaran",
+    "lat": 14.5343,
+    "lng": 120.9983
+  },
+  {
+    "id": "lrt2-recto",
+    "lat": 14.6036,
+    "lng": 120.9831
+  },
+  {
+    "id": "lrt2-legarda",
+    "lat": 14.6008,
+    "lng": 120.9925
+  },
+  {
+    "id": "lrt2-pureza",
+    "lat": 14.6017,
+    "lng": 121.005
+  },
+  {
+    "id": "lrt2-v-mapa",
+    "lat": 14.604,
+    "lng": 121.017
+  },
+  {
+    "id": "lrt2-j-ruiz",
+    "lat": 14.6105,
+    "lng": 121.0261
+  },
+  {
+    "id": "lrt2-gilmore",
+    "lat": 14.6135,
+    "lng": 121.0341
+  },
+  {
+    "id": "lrt2-betty-go-belmonte",
+    "lat": 14.6186,
+    "lng": 121.0428
+  },
+  {
+    "id": "lrt2-araneta-cubao",
+    "lat": 14.6229,
+    "lng": 121.0533
+  },
+  {
+    "id": "lrt2-anonas",
+    "lat": 14.6279,
+    "lng": 121.0643
+  },
+  {
+    "id": "lrt2-katipunan",
+    "lat": 14.6311,
+    "lng": 121.0728
+  },
+  {
+    "id": "lrt2-santolan",
+    "lat": 14.6221,
+    "lng": 121.0856
+  },
+  {
+    "id": "lrt2-marikina",
+    "lat": 14.6205,
+    "lng": 121.1006
+  },
+  {
+    "id": "lrt2-antipolo",
+    "lat": 14.6248,
+    "lng": 121.1214
+  },
+  {
+    "id": "mr7-tutuban",
+    "lat": 14.6065,
+    "lng": 120.9824
+  },
+  {
+    "id": "mr7-espana",
+    "lat": 14.6003,
+    "lng": 120.9939
+  },
+  {
+    "id": "mr7-santa-mesa",
+    "lat": 14.5951,
+    "lng": 121.0055
+  },
+  {
+    "id": "mr7-paco",
+    "lat": 14.5748,
+    "lng": 120.9981
+  },
+  {
+    "id": "mr7-buendia",
+    "lat": 14.554,
+    "lng": 121.022
+  },
+  {
+    "id": "mr7-edsa",
+    "lat": 14.5462,
+    "lng": 121.0202
+  },
+  {
+    "id": "mr7-senate-deped",
+    "lat": 14.5235,
+    "lng": 121.0263
+  },
+  {
+    "id": "mr7-fti",
+    "lat": 14.5064,
+    "lng": 121.0355
+  },
+  {
+    "id": "mr7-bicutan",
+    "lat": 14.4879,
+    "lng": 121.0454
+  },
+  {
+    "id": "mr7-sucat",
+    "lat": 14.471,
+    "lng": 121.0423
+  },
+  {
+    "id": "mr7-alabang",
+    "lat": 14.422,
+    "lng": 121.0394
+  },
+  {
+    "id": "mr7-muntinlupa",
+    "lat": 14.4081,
+    "lng": 121.0412
+  },
+  {
+    "id": "mr7-san-pedro",
+    "lat": 14.359,
+    "lng": 121.048
+  },
+  {
+    "id": "mr7-binan",
+    "lat": 14.3384,
+    "lng": 121.079
+  },
+  {
+    "id": "mr7-santa-rosa",
+    "lat": 14.3122,
+    "lng": 121.1115
+  },
+  {
+    "id": "mr7-cabuyao",
+    "lat": 14.2742,
+    "lng": 121.1258
+  },
+  {
+    "id": "mr7-calamba",
+    "lat": 14.2115,
+    "lng": 121.1653
+  },
+  {
+    "id": "nscr-malolos",
+    "lat": 14.8433,
+    "lng": 120.8117
+  },
+  {
+    "id": "nscr-guiguinto",
+    "lat": 14.8303,
+    "lng": 120.8797
+  },
+  {
+    "id": "nscr-balagtas",
+    "lat": 14.8118,
+    "lng": 120.905
+  },
+  {
+    "id": "nscr-bocaue",
+    "lat": 14.7964,
+    "lng": 120.9271
+  },
+  {
+    "id": "nscr-marilao",
+    "lat": 14.77,
+    "lng": 120.953
+  },
+  {
+    "id": "nscr-meycauayan",
+    "lat": 14.7367,
+    "lng": 120.9617
+  },
+  {
+    "id": "nscr-valenzuela",
+    "lat": 14.7147,
+    "lng": 120.9843
+  },
+  {
+    "id": "nscr-caloocan",
+    "lat": 14.6741,
+    "lng": 120.9812
+  },
+  {
+    "id": "nscr-blumentritt",
+    "lat": 14.6228,
+    "lng": 120.9829
+  },
+  {
+    "id": "nscr-tutuban",
+    "lat": 14.6065,
+    "lng": 120.9824
+  },
+  {
+    "id": "mms-east-valenzuela",
+    "lat": 14.702,
+    "lng": 120.983
+  },
+  {
+    "id": "mms-quirino-highway",
+    "lat": 14.6895,
+    "lng": 121.0283
+  },
+  {
+    "id": "mms-tandang-sora",
+    "lat": 14.6751,
+    "lng": 121.0322
+  },
+  {
+    "id": "mms-north-ave",
+    "lat": 14.657,
+    "lng": 121.0362
+  },
+  {
+    "id": "mms-quezon-ave",
+    "lat": 14.6454,
+    "lng": 121.0377
+  },
+  {
+    "id": "mms-east-ave",
+    "lat": 14.6365,
+    "lng": 121.0514
+  },
+  {
+    "id": "mms-anonas",
+    "lat": 14.6274,
+    "lng": 121.0639
+  },
+  {
+    "id": "mms-camp-aguinaldo",
+    "lat": 14.612,
+    "lng": 121.0698
+  },
+  {
+    "id": "mms-ortigas",
+    "lat": 14.5874,
+    "lng": 121.0643
+  },
+  {
+    "id": "mms-shaw",
+    "lat": 14.5765,
+    "lng": 121.0621
+  },
+  {
+    "id": "mms-kalayaan",
+    "lat": 14.5581,
+    "lng": 121.0557
+  },
+  {
+    "id": "mms-bgc",
+    "lat": 14.5494,
+    "lng": 121.0549
+  },
+  {
+    "id": "mms-lawton",
+    "lat": 14.5354,
+    "lng": 121.0393
+  },
+  {
+    "id": "mms-senate-deped",
+    "lat": 14.5235,
+    "lng": 121.0263
+  },
+  {
+    "id": "mms-naia-t3",
+    "lat": 14.5207,
+    "lng": 121.0148
+  },
+  {
+    "id": "mms-fti",
+    "lat": 14.5064,
+    "lng": 121.0355
+  },
+  {
+    "id": "mms-bicutan",
+    "lat": 14.4879,
+    "lng": 121.0454
+  },
+  {
+    "id": "mrt7-north-ave",
+    "lat": 14.6521,
+    "lng": 121.0326
+  },
+  {
+    "id": "mrt7-qmc",
+    "lat": 14.6522,
+    "lng": 121.0472
+  },
+  {
+    "id": "mrt7-university-ave",
+    "lat": 14.655,
+    "lng": 121.0549
+  },
+  {
+    "id": "mrt7-tandang-sora",
+    "lat": 14.6634,
+    "lng": 121.0674
+  },
+  {
+    "id": "mrt7-don-antonio",
+    "lat": 14.677,
+    "lng": 121.0826
+  },
+  {
+    "id": "mrt7-batasan",
+    "lat": 14.6851,
+    "lng": 121.0863
+  },
+  {
+    "id": "mrt7-manggahan",
+    "lat": 14.6975,
+    "lng": 121.0873
+  },
+  {
+    "id": "mrt7-dona-carmen",
+    "lat": 14.7051,
+    "lng": 121.0783
+  },
+  {
+    "id": "mrt7-regalado",
+    "lat": 14.7065,
+    "lng": 121.0681
+  },
+  {
+    "id": "mrt7-mindanao-ave",
+    "lat": 14.7328,
+    "lng": 121.0611
+  },
+  {
+    "id": "mrt7-quirino",
+    "lat": 14.7355,
+    "lng": 121.0669
+  },
+  {
+    "id": "mrt7-sacred-heart",
+    "lat": 14.7539,
+    "lng": 121.085
+  },
+  {
+    "id": "mrt7-tala",
+    "lat": 14.772,
+    "lng": 121.089
+  },
+  {
+    "id": "mrt7-sjdm-terminal",
+    "lat": 14.795,
+    "lng": 121.097
+  },
+  {
+    "id": "lrt1-cavite-redemptorist-aseana",
+    "lat": 14.5267,
+    "lng": 120.9939
+  },
+  {
+    "id": "lrt1-cavite-ninoy-aquino-ave",
+    "lat": 14.5193,
+    "lng": 120.9961
+  },
+  {
+    "id": "lrt1-cavite-pitx",
+    "lat": 14.5101,
+    "lng": 120.9917
+  },
+  {
+    "id": "lrt1-cavite-mia-road",
+    "lat": 14.5036,
+    "lng": 120.9969
+  },
+  {
+    "id": "lrt1-cavite-dr-santos",
+    "lat": 14.4951,
+    "lng": 121.0024
+  }
+]
